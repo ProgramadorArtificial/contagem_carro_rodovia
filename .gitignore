@@ -10,6 +10,9 @@ runs/
 *.mp4
 *.avi
 
+# Keep
+!imgs/camera.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
