@@ -7,7 +7,7 @@ Foi utilizado a câmera presente nos primeiros 23 minutos: https://www.youtube.c
 
 Os Notebooks estão organizados em etapas de desenvolvimento, mostrando o que foi criado e pensando naquele momento. Pode conter códigos e configurações em Notebooks/códigos mais antigos os quais foram alteradas futuramente.
 
-[Vídeo com todas as explicações contagem carro rodovia]()
+[Vídeo com todas as explicações contagem carro rodovia](https://youtu.be/IuqxEWSUejA)
 
 ## Pré-requisitos
 Para executar os códigos e obter os mesmo resultados é necessário baixar o vídeo da gravação da câmera e pegar somente os 23 minutos iniciais, renomeando o vídeo para "camera.mp4".
