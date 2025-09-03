@@ -1,4 +1,5 @@
 # Folders
+dataset/
 debug/
 runs/
 
@@ -11,7 +12,8 @@ runs/
 *.avi
 
 # Keep
-!imgs/camera.png
+!imgs/*
+!models/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
