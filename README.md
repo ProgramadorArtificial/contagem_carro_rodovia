@@ -8,6 +8,7 @@ Foi utilizado a câmera presente nos primeiros 23 minutos: https://www.youtube.c
 Os Notebooks estão organizados em etapas de desenvolvimento, mostrando o que foi criado e pensando naquele momento. Pode conter códigos e configurações em Notebooks/códigos mais antigos os quais foram alteradas futuramente.
 
 [Vídeo com todas as explicações contagem veículos rodovia](https://youtu.be/IuqxEWSUejA)
+
 [Vídeo com todas as explicações do treinamento customizado para detecção dos veículos](https://youtu.be/CrudEJ2nDcc)
 
 ## Pré-requisitos
